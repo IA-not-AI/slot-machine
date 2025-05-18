@@ -1,6 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;                                                         /*Hi pooks*/
+import java.awt.event.*;                                                         
 import java.io.*;
 import java.util.*;
 import java.util.Timer;
